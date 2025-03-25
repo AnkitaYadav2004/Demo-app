@@ -1,2 +1,1 @@
-# Demo-app
-This is my food mucnh website used many products ,git and github
+![Home page](https://github.com/AnkitaYadav2004/Demo-app/blob/main/Screenshot%202025-03-24%20155722.png?raw=true) 
